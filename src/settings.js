@@ -5,9 +5,9 @@ module.exports = () => {
     // will most likley want to change designated
     // github organization / username
     // github.com/WHATEVER
-    var gitOrg = "haxtheweb";
+    var gitOrg = "pesaninweb";
     // github.com/haxtheweb/WHATEVER - hax11ty here implies building against the repo itself to produce it's own docs :)
-    var gitProject = "hax11ty";
+    var gitProject = "hax11ty11";
     // if doing github builds, automatically set these to whatever the repo issuing the call is
     // the above is just for SOME default so things below publish correctly locally
     if (process.env.GITHUB_REPOSITORY) {
