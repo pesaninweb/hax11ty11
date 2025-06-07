@@ -1,6 +1,6 @@
 {
-  "name": "hax11ty11",
-  "short_name": "hax11ty11",
+  "name": "pesaninweb.github.io",
+  "short_name": "pesaninweb.github.io",
   "description": "project documentation",
   "icons": [
     {
@@ -47,12 +47,12 @@
       "density": "4.0"
     }
   ],
-  "scope": "/hax11ty11/",
-  "start_url": "/hax11ty11/",
+  "scope": "/",
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#55FF55",
   "background_color": "#55FF55",
-  "url": "https://pesaninweb.github.io/hax11ty11",
+  "url": "hax.animasilogo.biz.id",
   "lang": "en",
   "screenshots": [],
   "orientation": "portrait"

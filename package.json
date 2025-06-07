@@ -1,11 +1,11 @@
 {
-  "name": "hax11ty11",
+  "name": "pesaninweb.github.io",
   "version": "1.2.9-11ty",
   "description": "project documentation",
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "git@github.com:pesaninweb/hax11ty11.git"
+    "url": "git@github.com:pesaninweb/pesaninweb.github.io.git"
   },
   "author": {
     "name": "pesaninweb"

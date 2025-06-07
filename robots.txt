@@ -1,4 +1,4 @@
-Sitemap: https://pesaninweb.github.io/hax11ty11/sitemap.xml
+Sitemap: hax.animasilogo.biz.id/sitemap.xml
 User-agent: *
 Crawl-delay: 10
 # CSS, JS, Images

@@ -1,6 +1,6 @@
 {
-  "id": "#0ec6d9da-4999-3bc4-e4f6-c00c4ca5a5e5",
-  "title": "hax11ty11",
+  "id": "#6334e473-8916-7058-21b9-2c837d7806e6",
+  "title": "pesaninweb.github.io",
   "author": "pesaninweb",
   "description": "project documentation",
   "license": "by-sa",
@@ -12,16 +12,16 @@
       "socialLink": "https://twitter.com/"
     },
     "site": {
-      "name": "hax11ty11",
-      "created": 1749271141928,
-      "updated": 1749271141928,
+      "name": "pesaninweb.github.io",
+      "created": 1749271926387,
+      "updated": 1749271926387,
       "git": {
         "autoPush": false,
         "branch": "master",
         "staticBranch": "gh-pages",
         "vendor": "github",
-        "publicRepoUrl": "https://github.com/pesaninweb/hax11ty11/blob/master/src/",
-        "url": "git@github.com:pesaninweb/hax11ty11.git"
+        "publicRepoUrl": "https://github.com/pesaninweb/pesaninweb.github.io/blob/master/src/",
+        "url": "git@github.com:pesaninweb/pesaninweb.github.io.git"
       },
       "version": "1.2.9-11ty",
       "domain": "https://localhost:8000",
@@ -58,8 +58,8 @@
       "description": "About",
       "parent": null,
       "metadata": {
-        "created": 1749271122,
-        "updated": 1749271122,
+        "created": 1749271907,
+        "updated": 1749271907,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -68,8 +68,8 @@
           "version": "1.0.1",
           "generator": "Eleventy v1.0.1",
           "env": {
-            "config": "/home/runner/work/hax11ty11/hax11ty11/app/.eleventy.js",
-            "root": "/home/runner/work/hax11ty11/hax11ty11/app",
+            "config": "/home/runner/work/pesaninweb.github.io/pesaninweb.github.io/app/.eleventy.js",
+            "root": "/home/runner/work/pesaninweb.github.io/pesaninweb.github.io/app",
             "source": "cli"
           }
         },
@@ -78,39 +78,6 @@
         ],
         "layout": "content.liquid",
         "title": "About",
-        "order": 1
-      }
-    },
-    {
-      "id": "--content-examples-md",
-      "indent": 0,
-      "location": "./pages/examples.md",
-      "slug": "content/examples/",
-      "order": 1,
-      "title": "Examples",
-      "description": "Examples",
-      "parent": null,
-      "metadata": {
-        "created": 1749271122,
-        "updated": 1749271122,
-        "readtime": 1,
-        "contentDetails": {},
-        "files": [],
-        "haxcmsServiceWorker": true,
-        "eleventy": {
-          "version": "1.0.1",
-          "generator": "Eleventy v1.0.1",
-          "env": {
-            "config": "/home/runner/work/hax11ty11/hax11ty11/app/.eleventy.js",
-            "root": "/home/runner/work/hax11ty11/hax11ty11/app",
-            "source": "cli"
-          }
-        },
-        "tags": [
-          "content"
-        ],
-        "layout": "content.liquid",
-        "title": "Examples",
         "order": 1
       }
     },
@@ -124,8 +91,8 @@
       "description": "Installation",
       "parent": null,
       "metadata": {
-        "created": 1749271122,
-        "updated": 1749271122,
+        "created": 1749271907,
+        "updated": 1749271907,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -134,8 +101,8 @@
           "version": "1.0.1",
           "generator": "Eleventy v1.0.1",
           "env": {
-            "config": "/home/runner/work/hax11ty11/hax11ty11/app/.eleventy.js",
-            "root": "/home/runner/work/hax11ty11/hax11ty11/app",
+            "config": "/home/runner/work/pesaninweb.github.io/pesaninweb.github.io/app/.eleventy.js",
+            "root": "/home/runner/work/pesaninweb.github.io/pesaninweb.github.io/app",
             "source": "cli"
           }
         },
@@ -144,6 +111,39 @@
         ],
         "layout": "content.liquid",
         "title": "Installation",
+        "order": 1
+      }
+    },
+    {
+      "id": "--content-examples-md",
+      "indent": 0,
+      "location": "./pages/examples.md",
+      "slug": "content/examples/",
+      "order": 1,
+      "title": "Examples",
+      "description": "Examples",
+      "parent": null,
+      "metadata": {
+        "created": 1749271907,
+        "updated": 1749271907,
+        "readtime": 1,
+        "contentDetails": {},
+        "files": [],
+        "haxcmsServiceWorker": true,
+        "eleventy": {
+          "version": "1.0.1",
+          "generator": "Eleventy v1.0.1",
+          "env": {
+            "config": "/home/runner/work/pesaninweb.github.io/pesaninweb.github.io/app/.eleventy.js",
+            "root": "/home/runner/work/pesaninweb.github.io/pesaninweb.github.io/app",
+            "source": "cli"
+          }
+        },
+        "tags": [
+          "content"
+        ],
+        "layout": "content.liquid",
+        "title": "Examples",
         "order": 1
       }
     },
@@ -157,8 +157,8 @@
       "description": "Why this is better",
       "parent": null,
       "metadata": {
-        "created": 1749271122,
-        "updated": 1749271122,
+        "created": 1749271907,
+        "updated": 1749271907,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -167,8 +167,8 @@
           "version": "1.0.1",
           "generator": "Eleventy v1.0.1",
           "env": {
-            "config": "/home/runner/work/hax11ty11/hax11ty11/app/.eleventy.js",
-            "root": "/home/runner/work/hax11ty11/hax11ty11/app",
+            "config": "/home/runner/work/pesaninweb.github.io/pesaninweb.github.io/app/.eleventy.js",
+            "root": "/home/runner/work/pesaninweb.github.io/pesaninweb.github.io/app",
             "source": "cli"
           }
         },
@@ -190,8 +190,8 @@
       "description": "Roadmap",
       "parent": null,
       "metadata": {
-        "created": 1749271122,
-        "updated": 1749271122,
+        "created": 1749271907,
+        "updated": 1749271907,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -200,8 +200,8 @@
           "version": "1.0.1",
           "generator": "Eleventy v1.0.1",
           "env": {
-            "config": "/home/runner/work/hax11ty11/hax11ty11/app/.eleventy.js",
-            "root": "/home/runner/work/hax11ty11/hax11ty11/app",
+            "config": "/home/runner/work/pesaninweb.github.io/pesaninweb.github.io/app/.eleventy.js",
+            "root": "/home/runner/work/pesaninweb.github.io/pesaninweb.github.io/app",
             "source": "cli"
           }
         },
@@ -223,8 +223,8 @@
       "description": "Get involved!",
       "parent": null,
       "metadata": {
-        "created": 1749271122,
-        "updated": 1749271122,
+        "created": 1749271907,
+        "updated": 1749271907,
         "readtime": 1,
         "contentDetails": {},
         "files": [],
@@ -233,8 +233,8 @@
           "version": "1.0.1",
           "generator": "Eleventy v1.0.1",
           "env": {
-            "config": "/home/runner/work/hax11ty11/hax11ty11/app/.eleventy.js",
-            "root": "/home/runner/work/hax11ty11/hax11ty11/app",
+            "config": "/home/runner/work/pesaninweb.github.io/pesaninweb.github.io/app/.eleventy.js",
+            "root": "/home/runner/work/pesaninweb.github.io/pesaninweb.github.io/app",
             "source": "cli"
           }
         },
